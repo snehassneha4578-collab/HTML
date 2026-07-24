@@ -40,7 +40,7 @@ StudentRegistration/
 
 ## 📸 Output
 
-![Student Registration Form](output.png)
+![Student Registration Form](outputHTML.png)
 
 ## ▶️ How to Run
 1. Download or clone the repository.
@@ -56,4 +56,4 @@ StudentRegistration/
 
 ---
 
-**Author:** Sneha S
+
