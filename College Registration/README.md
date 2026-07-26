@@ -13,4 +13,4 @@ This HTML page demonstrates a simple **College Registration Form** using basic H
 
 ## Output
 
-![College Registration Form](outputClg.png)
+![College Registration Form](outputclg.png)
