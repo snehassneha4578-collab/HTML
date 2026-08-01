@@ -72,6 +72,4 @@ Create a simple HTML Portfolio webpage using basic HTML structure and semantic t
 
 ---
 
-## Author
 
-**Sneha**
