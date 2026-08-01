@@ -1,0 +1,10 @@
+mkdir HTML-Entities
+cd HTML-Entities
+touch index.html README.md commands.txt
+code .
+git init
+git add .
+git commit -m "Add HTML Entities practice"
+git branch -M main
+git remote add origin <YOUR_GITHUB_REPOSITORY_URL>
+git push -u origin main
