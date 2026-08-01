@@ -1,0 +1,11 @@
+HTML Entities Used
+
+1. &lt;        - Displays the Less Than symbol (<)
+2. &gt;        - Displays the Greater Than symbol (>)
+3. &amp;       - Displays the Ampersand symbol (&)
+4. &copy;      - Displays the Copyright symbol (©)
+5. &trade;     - Displays the Trademark symbol (™)
+6. &reg;       - Displays the Registered symbol (®)
+7. &#8377;     - Displays the Indian Rupee symbol (₹)
+8. &#128512;   - Displays the Emoji (😀)
+9. &nbsp;      - Inserts a non-breaking (extra) space
