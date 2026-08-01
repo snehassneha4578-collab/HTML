@@ -26,6 +26,4 @@ output.png
 
 ![Output](entities.png)
 
-## Author
 
-Sneha
