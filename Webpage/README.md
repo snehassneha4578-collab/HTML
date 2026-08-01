@@ -1,31 +1,19 @@
-# HTML Entities Example
+# HTML Entities
 
-This HTML example demonstrates the use of common HTML entities.
+This HTML program demonstrates the use of HTML entities and special characters.
 
-## Entities Used
-
-- Less Than (`&lt;`)
-- Greater Than (`&gt;`)
-- Ampersand (`&amp;`)
-- Copyright (`&copy;`)
-- Trademark (`&trade;`)
-- Registered (`&reg;`)
-- Indian Rupee (`&#8377;`)
-- Emoji (`&#128512;`)
-- Non-breaking Space (`&nbsp;`)
+## Concepts Covered
+- Displaying your name
+- Copyright entity (`&copy;`)
+- Trademark entity (`&trade;`)
+- Rupee symbol (`&#8377;`)
+- Emojis
+- Non-breaking spaces (`&nbsp;`)
 
 ## Files
-
-```
-index.html
-README.md
-output.png
-```
+- `index.html` – HTML source code
+- `output.png` – Screenshot of the output
 
 ## Output
 
-![Output](entities.png)
-
-## Author
-
-Sneha
+![Output](webpage.png)
